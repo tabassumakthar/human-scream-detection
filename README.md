@@ -1,4 +1,4 @@
-# human scream detection using ML to control crime rate
+# Human Scream Detection Using ML to Control Crime Rate
 
 
 *Human Scream Detection* is a real-time, CPU-optimized scream detection and safety alerting system. Designed to run continuously on a PC, it not only detects screams from live microphone input but also performs threat analysis to assess potential human safety concerns. When a valid threat is detected, it automatically sends a notification via Telegram.
