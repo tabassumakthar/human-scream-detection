@@ -35,5 +35,5 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/krishnaveni662/HumanScreamDetection.git
-cd HumanScreamDetection
+git clone https://github.com/tabassumakthar/human-scream-detection.git
+cd human-scream-detection
